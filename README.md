@@ -1,4 +1,4 @@
-fi-labs_point-could
+fi-labs_point-cloud
 ===================
 
-Fi Labs Point Could
+Fi Labs Point Cloud
